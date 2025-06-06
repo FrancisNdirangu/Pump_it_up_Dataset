@@ -5,7 +5,7 @@ This project develops a predictive maintenance solution for Tanzania's water inf
 
 **Key Results**:
 - 76% prediction accuracy with Random Forest model
-- 78% recall for identifying non-functional pumps
+- 80% recall for identifying non-functional pumps
 
 ## Business Understanding
 Our solution helps:
